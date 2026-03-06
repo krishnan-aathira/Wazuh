@@ -1,0 +1,2 @@
+# Wazuh
+SOC Lab
