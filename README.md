@@ -25,12 +25,8 @@ VirtualBox, host-only network between the VMs, Wazuh 4.14.3.
 wazuh-soc-homelab/
 ├── README.md
 ├── Wazuh_Configuration_Attack_Simulation_Log_Monitoring.pdf
-└── evidence/
-    ├── installation/
-    ├── attack-simulation/
-    ├── alerts/
-    └── dashboards/
 ```
+Full steps and evidence are in the PDF.
 
 ## Setup
 
